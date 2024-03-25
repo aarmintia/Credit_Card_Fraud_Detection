@@ -10,4 +10,4 @@ Creation of a Credit card Fraud Detection system using Machine Learning with Pyt
 The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
 <h1>References</h1>
-<a href='https://www.youtube.com/watch?v=NCgjcHLFNDg'>YouTube</a>
+<a href='https://www.youtube.com/watch?v=NCgjcHLFNDg'>Siddhardhan</a>

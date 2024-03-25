@@ -1,4 +1,4 @@
-'![image](https://github.com/aarmintia/Credit_Card_Fraud_Detection/assets/145073683/2e702d02-0140-45af-9312-148291c344a7')
+![image](https://github.com/aarmintia/Credit_Card_Fraud_Detection/assets/145073683/2e702d02-0140-45af-9312-148291c344a7')
 >
 
 <h1>About</h1>

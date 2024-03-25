@@ -3,6 +3,8 @@ Creation of a Credit card Fraud Detection system using Machine Learning with Pyt
 
 <h1>Dataset</h1>
 <a href='https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud'>Kaggle</a>
+<br>
+The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
 <h1>References</h1>
 <a href='https://www.youtube.com/watch?v=NCgjcHLFNDg'>YouTube</a>
